@@ -15,9 +15,9 @@
   "DalamudApiLevel": 8,
   "DownloadCount": 63388,
   "LastUpdate": 1684682084,
-  "DownloadLinkInstall": "https://love.puni.sh/plugins/Artisan/latest.zip",
-  "DownloadLinkUpdate": "https://love.puni.sh/plugins/Artisan/latest.zip",
-  "DownloadLinkTesting": "https://love.puni.sh/plugins/Artisan/latest.zip",
+  "DownloadLinkInstall": "https://github.com/changyyyyy/MyDalamudPlugins/raw/master/Artisan/latest.zip",
+  "DownloadLinkUpdate": "https://github.com/changyyyyy/MyDalamudPlugins/raw/master/Artisan/latest.zip",
+  "DownloadLinkTesting": "https://github.com/changyyyyy/MyDalamudPlugins/raw/master/Artisan/latest.zip",
   "IconUrl": "https://love.puni.sh/resources/artisan.png",
   "AcceptsFeedback": true
 }

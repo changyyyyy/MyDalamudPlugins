@@ -1,23 +1,25 @@
-{
-  "Author": "Taurenkey (Puni.sh)",
-  "Name": "Artisan",
-  "Punchline": "A 'simple' crafting plugin.",
-  "Description": "The all-in-one crafting plugin.",
-  "Changelog": "- Please visit the Discord for a full list of updates.",
-  "Tags": [
-    "crafting"
-  ],
-  "InternalName": "Artisan",
-  "AssemblyVersion": "1.8.0.1",
-  "TestingAssemblyVersion": "1.7.5.11",
-  "RepoUrl": "https://github.com/PunishXIV/Artisan",
-  "ApplicableVersion": "any",
-  "DalamudApiLevel": 8,
-  "DownloadCount": 63388,
-  "LastUpdate": 1684682084,
-  "DownloadLinkInstall": "https://github.com/changyyyyy/MyDalamudPlugins/raw/master/Artisan/latest.zip",
-  "DownloadLinkUpdate": "https://github.com/changyyyyy/MyDalamudPlugins/raw/master/Artisan/latest.zip",
-  "DownloadLinkTesting": "https://github.com/changyyyyy/MyDalamudPlugins/raw/master/Artisan/latest.zip",
-  "IconUrl": "https://love.puni.sh/resources/artisan.png",
-  "AcceptsFeedback": true
-}
+[
+  {
+    "Author": "Taurenkey (Puni.sh)",
+    "Name": "Artisan",
+    "Punchline": "A 'simple' crafting plugin.",
+    "Description": "The all-in-one crafting plugin.",
+    "Changelog": "- Please visit the Discord for a full list of updates.",
+    "Tags": [
+      "crafting"
+    ],
+    "InternalName": "Artisan",
+    "AssemblyVersion": "1.8.0.1",
+    "TestingAssemblyVersion": "1.7.5.11",
+    "RepoUrl": "https://github.com/PunishXIV/Artisan",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 8,
+    "DownloadCount": 63388,
+    "LastUpdate": 1684682084,
+    "DownloadLinkInstall": "https://github.com/changyyyyy/MyDalamudPlugins/raw/master/Artisan/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/changyyyyy/MyDalamudPlugins/raw/master/Artisan/latest.zip",
+    "DownloadLinkTesting": "https://github.com/changyyyyy/MyDalamudPlugins/raw/master/Artisan/latest.zip",
+    "IconUrl": "https://love.puni.sh/resources/artisan.png",
+    "AcceptsFeedback": true
+  }
+]

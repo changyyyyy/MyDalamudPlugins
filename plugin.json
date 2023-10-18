@@ -21,5 +21,25 @@
     "DownloadLinkTesting": "https://github.com/changyyyyy/MyDalamudPlugins/raw/master/Artisan/latest.zip",
     "IconUrl": "https://love.puni.sh/resources/artisan.png",
     "AcceptsFeedback": true
+  },
+  {
+    "Author": "Aki, k-kz, ele-starshade, damolitionn, Taurenkey, Augporto, grimgal, Genesis-Nova, Tartarga",
+    "Name": "Combo",
+    "Punchline": "Condenses combos and mutually exclusive abilities onto a single button - and then some.6.4汉化 /n改了个名字防止国服被ban",
+    "Description": "Condenses combos and mutually exclusive abilities onto a single button - and then some.6.4汉化 /n改了个名字防止国服被ban",
+    "InternalName": "Combo",
+    "AssemblyVersion": "3.0.18.9",
+    "RepoUrl": "https://github.com/44451516/XIVSlothCombo/",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 8,
+    "IconUrl": "https://i.imgur.com/iEcxM81.png",
+    "ImageUrls": [
+      "https://i.imgur.com/iEcxM81.png"
+    ],
+    "DownloadLinkInstall": "https://github.com/changyyyyy/MyDalamudPlugins/raw/master/XIVSlothCombo/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/changyyyyy/MyDalamudPlugins/raw/master/XIVSlothCombo/latest.zip",
+    "DownloadLinkTesting": "https://github.com/changyyyyy/MyDalamudPlugins/raw/master/XIVSlothCombo/latest.zip",
+    "DownloadCount": 0,
+    "LastUpdated": "0"
   }
 ]

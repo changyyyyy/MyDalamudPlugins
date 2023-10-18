@@ -25,10 +25,11 @@
   {
     "Author": "Aki, k-kz, ele-starshade, damolitionn, Taurenkey, Augporto, grimgal, Genesis-Nova, Tartarga",
     "Name": "Combo",
-    "Punchline": "Condenses combos and mutually exclusive abilities onto a single button - and then some.6.4汉化 /n改了个名字防止国服被ban",
-    "Description": "Condenses combos and mutually exclusive abilities onto a single button - and then some.6.4汉化 /n改了个名字防止国服被ban",
+    "Punchline": "Condenses combos and mutually exclusive abilities onto a single button - and then some.6.4汉化 改了个名字防止国服被ban",
+    "Description": "Condenses combos and mutually exclusive abilities onto a single button - and then some.6.4汉化 改了个名字防止国服被ban",
     "InternalName": "Combo",
     "AssemblyVersion": "3.0.18.9",
+    "TestingAssemblyVersion": "3.0.18.9",
     "RepoUrl": "https://github.com/44451516/XIVSlothCombo/",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 8,
@@ -40,6 +41,7 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/changyyyyy/MyDalamudPlugins/master/XIVSlothCombo/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/changyyyyy/MyDalamudPlugins/master/XIVSlothCombo/latest.zip",
     "DownloadCount": 0,
-    "LastUpdated": "0"
+    "LastUpdate": 1684682084,
+    "AcceptsFeedback": true
   }
 ]

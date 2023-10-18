@@ -40,6 +40,8 @@
     "DownloadLinkInstall": "https://github.com/changyyyyy/MyDalamudPlugins/raw/master/XIVSlothCombo/latest.zip",
     "DownloadLinkUpdate": "https://github.com/changyyyyy/MyDalamudPlugins/raw/master/XIVSlothCombo/latest.zip",
     "DownloadLinkTesting": "https://github.com/changyyyyy/MyDalamudPlugins/raw/master/XIVSlothCombo/latest.zip",
+    "IsHide": false,
+    "IsTestingExclusive": false,
     "DownloadCount": 0,
     "LastUpdate": 1684682084,
     "AcceptsFeedback": true

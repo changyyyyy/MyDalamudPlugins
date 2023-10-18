@@ -36,9 +36,9 @@
     "ImageUrls": [
       "https://i.imgur.com/iEcxM81.png"
     ],
-    "DownloadLinkInstall": "https://github.com/changyyyyy/MyDalamudPlugins/raw/master/XIVSlothCombo/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/changyyyyy/MyDalamudPlugins/raw/master/XIVSlothCombo/latest.zip",
-    "DownloadLinkTesting": "https://github.com/changyyyyy/MyDalamudPlugins/raw/master/XIVSlothCombo/latest.zip",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/changyyyyy/MyDalamudPlugins/master/XIVSlothCombo/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/changyyyyy/MyDalamudPlugins/master/XIVSlothCombo/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/changyyyyy/MyDalamudPlugins/master/XIVSlothCombo/latest.zip",
     "DownloadCount": 0,
     "LastUpdated": "0"
   }
